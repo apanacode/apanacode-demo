@@ -1,4 +1,4 @@
-# apanacode-demo
+cd # apanacode-demo
 This is my first Git Repository.
 <br>
-Author - Lokesh
+Author - Lokesh_Roy
